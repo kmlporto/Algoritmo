@@ -1,1 +1,1 @@
-# #TQR MONITORA APE
+#Disciplina de Algoritmo, em C e python
